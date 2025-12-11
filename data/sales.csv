@@ -1,1 +1,12 @@
+order_id,product,category,price,quantity,order_date
+1001,Laptop,Electronics,850,1,2023-01-05
+1002,Headphones,Electronics,45,2,2023-01-07
+1003,Desk,Furniture,120,1,2023-01-10
+1004,Chair,Furniture,60,3,2023-02-03
+1005,Mouse,Electronics,20,5,2023-02-08
+1006,Shoes,Fashion,50,2,2023-03-01
+1007,T-Shirt,Fashion,15,4,2023-03-12
+1008,Monitor,Electronics,180,1,2023-04-04
+1009,Lamp,Furniture,25,2,2023-04-11
+1010,Bag,Fashion,40,1,2023-05-02
 
